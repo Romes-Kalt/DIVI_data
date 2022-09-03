@@ -12,7 +12,7 @@ Using the [API](https://www.intensivregister.de/api/public/intensivregister) to 
 
 ## rki_weekly_xlsx.py
 
-Downloading the weekly published XLSX file provieded by RKI (incl. moving and replacing the previous file in project's source folder) and generating plots accordingly. Parameters will be changed in python file. 
+Downloading the weekly published XLSX file provided by RKI (incl. moving and replacing the previous file in project's source folder) and generating plots accordingly. Parameters will be changed in python file. 
 
 <img src="https://github.com/Romes-Kalt/DIVI_data/blob/main/data/xlsx_data/plots/2022_03_14_inc_of_5_bl_last_28days.png" alt="weekly_rki" width="600"/>
 
