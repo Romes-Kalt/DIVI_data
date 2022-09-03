@@ -18,6 +18,6 @@ Downloading the weekly published XLSX file provided by RKI (incl. moving and rep
 
 ## zeitreihe-csv.py
 
-Downloading the daily updated csv file containing numbers for current ICS patients and active COVID cases in hospitals (incl. moving and replacing the previous file in project's source folder).
+Downloading the daily updated csv file containing numbers for current ICU patients and active COVID cases in hospitals (incl. moving and replacing the previous file in project's source folder).
 
 <img src="https://github.com/Romes-Kalt/DIVI_data/blob/main/plots/csv_plots/Aktuelle_COVID_Faelle_ITS.png" alt="zeitreihe" width="600"/>
